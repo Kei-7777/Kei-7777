@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kei-7777&label=Profile%20views&color=0e75b6&style=flat" alt="kei-7777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/keilogic_" target="blank"><img src="https://img.shields.io/twitter/follow/keilogic_?logo=twitter&style=for-the-badge" alt="keilogic_" /></a> </p>
-
 - 🌱 I’m currently learning **Docker, Vue**
 
 - 👯 I’m looking to collaborate on [KUNLab](https://github.com/TeamKun)
 
 - 💬 Ask me about **java, python minecraft**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
